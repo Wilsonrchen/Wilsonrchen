@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Currently enrolled in Fullstack Bootcamp in hopes of pursuing a career in Web Development
+Currently looking for a career in Web Development!
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [this link](http://wilson-chen-personal-site.netlify.app/)
